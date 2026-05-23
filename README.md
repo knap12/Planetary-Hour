@@ -17,7 +17,7 @@ Planetary Hour is a Chrome extension that displays the current planetary hour as
 - Chrome Extensions (Manifest V3)
 - Chrome APIs
 - Geolocation API
-- Asynchronous API integrations
+- Sunrise/Sunset API integration
 - ExtensionPay
 - Stripe
 
@@ -27,6 +27,14 @@ Planetary Hour is a Chrome extension that displays the current planetary hour as
 - Background update reliability
 - Sequencing and time-boundary logic
 - State consistency across browser restarts
+
+## Screenshots
+
+![Toolbar](screenshots/finals2.jpg)
+
+![Settings](screenshots/screenshot2.png)
+
+![Extension](screenshots/ss2.png)
 
 ## Planned Features
 
